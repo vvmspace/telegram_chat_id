@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/vvmspace/telegram_chat_id/issues"
   },
-  "homepage": "https://github.com/vvmspace/telegram_chat_id#readme"
+  "homepage": "https://github.com/vvmspace/telegram_chat_id#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.59.0"
+  }
 }
